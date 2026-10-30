@@ -1,6 +1,4 @@
-# Slumberland
-
-> **Prelude to the Long Banquet**
+![Slumberland — Prelude to the Long Banquet](docs/banner.png)
 
 A 2D pixel-art, top-down action demo built with Unity. Wander a quiet pixel world, slash, dash, and poke at everything that looks interactive — doors, chests, altars.
 
