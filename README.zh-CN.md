@@ -32,7 +32,7 @@
 
 ## 下载游玩
 
-前往 **[Releases](../../releases/latest)** 下载 `Slumberland-v0.1.0-win64.zip`（约 234 MB），解压后双击 `Slumberland/SL_Game.exe` 即可开始。
+前往 **[Releases](https://github.com/Nicolat777/Slumberland/releases/latest)** 下载 `Slumberland-v0.1.0-win64.zip`（约 234 MB），解压后双击 `Slumberland/SL_Game.exe` 即可开始。
 
 - **系统**：Windows 10 / 11，64 位
 - **显卡**：支持 DirectX 11 / 12 的显卡

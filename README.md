@@ -32,7 +32,7 @@ A 2D pixel-art, top-down action demo built with Unity. Wander a quiet pixel worl
 
 ## Download & Play
 
-Grab `Slumberland-v0.1.0-win64.zip` (~234 MB) from the **[latest release](../../releases/latest)**, unzip it, and run `Slumberland/SL_Game.exe`.
+Grab `Slumberland-v0.1.0-win64.zip` (~234 MB) from the **[latest release](https://github.com/Nicolat777/Slumberland/releases/latest)**, unzip it, and run `Slumberland/SL_Game.exe`.
 
 - **OS**: Windows 10 / 11, 64-bit
 - **GPU**: anything with DirectX 11 / 12 support
