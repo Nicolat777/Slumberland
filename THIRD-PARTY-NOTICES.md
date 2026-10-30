@@ -8,13 +8,18 @@ in this repository grants you rights to them.
 
 | Component | Author / Source | Terms |
 |---|---|---|
-| Pixel Art Top Down - Basic (tilesets, props, characters, demo scripts under `Cainos/`) | [Cainos](https://assetstore.unity.com/publishers/45656) — Unity Asset Store | Unity Asset Store EULA (Standard). Used under the purchaser's license. |
-| Hero Knight - Pixel Art (character sprites, animations, `HeroKnight.cs` demo) | Sven Thole — Unity Asset Store | Unity Asset Store EULA (Standard). Used under the purchaser's license. |
+| [Pixel Art Top Down - Basic](https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605) v1.2.3 (tilesets, props, characters, demo scripts under `Cainos/`) | Cainos — Unity Asset Store, free | Standard Unity Asset Store EULA, **Extension Asset**. Used under the license granted to the downloader. |
+| [Hero Knight - Pixel Art](https://assetstore.unity.com/packages/2d/characters/hero-knight-pixel-art-165188) v1.2 (character sprites, animations, `HeroKnight.cs` demo) | Sven Thole — Unity Asset Store, free | Standard Unity Asset Store EULA, **Extension Asset**. Used under the license granted to the downloader. |
 
-The Unity Asset Store EULA generally permits use of purchased assets **inside
-your own finished products** but restricts redistributing the raw asset files
-themselves. The compiled builds under Releases contain these assets in
-packaged form; do not extract or re-use them separately.
+The Unity Asset Store EULA generally permits use of these assets **inside your
+own finished products** but restricts redistributing the raw asset files
+themselves. Both packages are licensed as **Extension Asset**, which under the
+Standard EULA means they may be embedded in a build you ship but may not be
+redistributed as standalone source files. The compiled builds under Releases
+contain these assets in packaged form; do not extract or re-use them separately.
+
+Being free on the Asset Store does not place them in the public domain — they
+remain under the Standard EULA and the authors retain copyright.
 
 ## Engine & libraries
 

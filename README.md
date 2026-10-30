@@ -64,8 +64,8 @@ This repository ships **playable builds**, not the source project. Each version 
 
 | Asset | Author |
 |:--|:--|
-| Pixel Art Top Down - Basic | [Cainos](https://assetstore.unity.com/publishers/45656) |
-| Hero Knight - Pixel Art | Sven Thole |
+| [Pixel Art Top Down - Basic](https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605) | Cainos |
+| [Hero Knight - Pixel Art](https://assetstore.unity.com/packages/2d/characters/hero-knight-pixel-art-165188) | Sven Thole |
 | Unity Engine & URP | Unity Technologies |
 
 Third-party assets remain the property of their respective authors and are used here for demo / learning purposes.

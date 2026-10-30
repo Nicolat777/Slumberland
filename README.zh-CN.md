@@ -64,8 +64,8 @@
 
 | 素材 | 作者 |
 |:--|:--|
-| Pixel Art Top Down - Basic | [Cainos](https://assetstore.unity.com/publishers/45656) |
-| Hero Knight - Pixel Art | Sven Thole |
+| [Pixel Art Top Down - Basic](https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605) | Cainos |
+| [Hero Knight - Pixel Art](https://assetstore.unity.com/packages/2d/characters/hero-knight-pixel-art-165188) | Sven Thole |
 | Unity Engine & URP | Unity Technologies |
 
 第三方素材版权归各自作者所有，本项目仅以学习 / 演示为目的使用。
