@@ -30,3 +30,7 @@ First public build.
   what is permitted: play the official builds, view/share the repo, quote short
   excerpts — no reuse of code or assets.
 - README: bilingual license section + license badge.
+- README split into two standalone files — `README.md` (English, default) and
+  `README.zh-CN.md` (简体中文) — each with its own screenshots, controls and
+  license section, cross-linked via a language switcher.
+- Added three screenshots under `docs/screenshots/`.
