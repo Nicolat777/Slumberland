@@ -12,13 +12,16 @@ First public build.
 - ~592 MB extracted / 234 MB zipped, portable (no installer)
 
 **Gameplay**
+- Main menu (New game / Load game / Settings / Exit) + gameplay scene
 - Top-down WASD movement with sprint-dash on cooldown
 - Melee attack on left mouse button
 - `E`-to-interact system: doors, chests, altars, layer triggers, teleporters
+- HUD: HP / MP bars, EXP bar, Map / Skill / inventory buttons
+- Character portraits and dialogue box
 - Pixel-art environment built from Cainos + Hero Knight asset sets
 
 **Known limitations**
-- Demo scope — one sample scene, no save system, no menus beyond the Unity default
+- Demo scope — single playable area, no save system yet
 - Windows only; no macOS / Linux build
 - Audio and game-feel polish still in progress
 

@@ -14,6 +14,22 @@ A 2D pixel-art, top-down action demo built with Unity. Wander a quiet pixel worl
 
 ---
 
+## 截图 / Screenshots
+
+**标题界面 · Title screen**
+
+![Title screen](docs/screenshots/01-title.jpg)
+
+**探索 · Exploration** — 俯视角探索，左上角 HP / MP，底部经验条
+
+![Exploration](docs/screenshots/02-exploration.jpg)
+
+**对话 · Dialogue** — 角色立绘与对白
+
+![Dialogue](docs/screenshots/03-dialogue.jpg)
+
+---
+
 ## 中文
 
 ### 下载游玩
