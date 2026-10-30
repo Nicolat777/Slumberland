@@ -1,0 +1,62 @@
+Copyright © 2026 Nicolat777. All rights reserved.
+
+# Slumberland — Prelude to the Long Banquet
+
+## No license is granted
+
+This repository and its contents — including but not limited to source code,
+scenes, prefabs, scripts, project settings, build artifacts, documentation and
+original artwork authored by the copyright holder — are protected by copyright.
+
+**No permission is granted to copy, modify, merge, publish, distribute,
+sublicense, sell, or otherwise exploit any part of this repository**, in source
+or compiled form, without the prior written permission of the copyright holder.
+
+## What you may do
+
+The following uses are permitted without further permission:
+
+1. **Play** — download and play the official builds published under the
+   [Releases](https://github.com/Nicolat777/Slumberland/releases) tab, for
+   personal, non-commercial entertainment.
+2. **View and link** — read the repository on GitHub, and share links to it.
+3. **Quote** — quote short excerpts for commentary, review, or news reporting,
+   with attribution.
+
+Everything else — including re-uploading builds, forking for reuse, asset
+extraction, or shipping any part of this project in another product —
+requires written permission first.
+
+## Third-party components
+
+This project bundles third-party art, engine and library components that are
+**not** covered by this notice and remain under their own licenses. See
+[THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
+## No warranty
+
+The software and assets are provided "AS IS", without warranty of any kind,
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and noninfringement. In no
+event shall the copyright holder be liable for any claim, damages or other
+liability, whether in an action of contract, tort or otherwise, arising from,
+out of or in connection with the software or its use.
+
+---
+
+## 中文说明
+
+本仓库内容（源代码、场景、预制体、脚本、工程配置、构建产物、文档及原创美术）
+版权归 Nicolat777 所有，**保留所有权利**。
+
+**未授予任何许可**：未经书面许可，不得复制、修改、合并、发布、分发、再授权、
+销售或以其他方式利用本仓库的任何部分（源码或编译产物）。
+
+无需额外许可即可进行：
+
+1. **游玩** —— 从 Releases 下载并游玩官方发行版，仅限个人非商业用途；
+2. **浏览与链接** —— 在 GitHub 上阅读本仓库并分享链接；
+3. **引用** —— 为评论、评测或新闻报道引用短片段，需注明出处。
+
+其他行为（重新上传构建包、fork 后复用、提取素材、将本项目任何部分用于其他产品等）
+须事先取得书面许可。

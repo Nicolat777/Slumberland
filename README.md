@@ -10,6 +10,7 @@ A 2D pixel-art, top-down action demo built with Unity. Wander a quiet pixel worl
 ![Platform](https://img.shields.io/badge/platform-Windows%20x64-0078D6?logo=windows&logoColor=white)
 ![Version](https://img.shields.io/badge/version-v0.1.0-orange)
 ![Status](https://img.shields.io/badge/status-demo-blue)
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
 
 ---
 
@@ -103,4 +104,15 @@ Third-party assets remain the property of their respective authors and are used 
 
 ### License / 授权
 
-Repository contents © Nicolat777. Third-party art assets are **not** covered by any license granted here — refer to their original Asset Store terms before redistributing.
+**All rights reserved / 保留所有权利** — 本仓库未授予任何开源许可。完整条款见 [LICENSE](LICENSE)，第三方素材见 [THIRD-PARTY-NOTICES](THIRD-PARTY-NOTICES.md)。
+
+| 可以做 / Allowed | 不可以 / Not allowed |
+|:--|:--|
+| 下载发行版并游玩（个人非商业） | 复制、修改、再分发代码 |
+| 浏览仓库、分享链接 | 重新上传构建包 / 提取素材 |
+| 评论、评测时引用短片段 | 用于其他产品或商业用途 |
+
+任何超出上述范围的使用，需事先取得作者书面许可。<br>
+Any use beyond the above requires prior written permission from the author.
+
+> Repository contents © 2026 Nicolat777. Third-party art assets (Cainos, Hero Knight) and the Unity engine are **not** covered by this notice — see [THIRD-PARTY-NOTICES](THIRD-PARTY-NOTICES.md).

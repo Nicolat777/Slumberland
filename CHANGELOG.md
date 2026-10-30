@@ -21,3 +21,9 @@ First public build.
 - Demo scope — one sample scene, no save system, no menus beyond the Unity default
 - Windows only; no macOS / Linux build
 - Audio and game-feel polish still in progress
+
+### Documentation
+- Added `LICENSE` (all rights reserved) and `THIRD-PARTY-NOTICES.md` clarifying
+  what is permitted: play the official builds, view/share the repo, quote short
+  excerpts — no reuse of code or assets.
+- README: bilingual license section + license badge.
