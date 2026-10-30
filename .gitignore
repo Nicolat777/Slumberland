@@ -1,0 +1,63 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+
+# Unity3D generated files
+sysinfo.txt
+*.stackdump
+crashlytics-build.properties
+
+# Build artifacts — distributed via GitHub Releases, never committed
+*.zip
+*.7z
+*.rar
+*.tar.gz
+build/
+dist/
+_StageOutput/
+*.apk
+*.aab
+*.unitypackage
+DoNotShip/
+*_BurstDebugInformation_DoNotShip/
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Credentials / secrets
+.env
+.env.*
+*.key
+*.pem

@@ -1,0 +1,23 @@
+# Changelog
+
+All notable changes to the build are documented here.
+
+## [v0.1.0] — 2026-10-30
+
+First public build.
+
+**Build**
+- Unity 2022.3.57f1 LTS, Windows x64 (Standalone)
+- Universal Render Pipeline, 2D Renderer
+- ~592 MB extracted / 234 MB zipped, portable (no installer)
+
+**Gameplay**
+- Top-down WASD movement with sprint-dash on cooldown
+- Melee attack on left mouse button
+- `E`-to-interact system: doors, chests, altars, layer triggers, teleporters
+- Pixel-art environment built from Cainos + Hero Knight asset sets
+
+**Known limitations**
+- Demo scope — one sample scene, no save system, no menus beyond the Unity default
+- Windows only; no macOS / Linux build
+- Audio and game-feel polish still in progress
